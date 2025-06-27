@@ -2,7 +2,7 @@ let titulo = document.querySelector('h1');
 
 titulo.innerHTML = 'Jogo do numero secreto';
 
-let titulo = document.querySelector('p'); 
+let paragrafo = document.querySelector('p'); 
 
 paragrafo.innerHTML = 'Quero dormir';
 
