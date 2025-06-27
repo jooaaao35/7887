@@ -1,3 +1,3 @@
 let titulo = document.querySelector("h1");
 
-titulo.innerHTML = 'Jogo do número secreto';
+titulo.innerHTML = 'Jogo do numero secreto';
