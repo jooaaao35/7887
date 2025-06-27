@@ -4,4 +4,4 @@ titulo.innerHTML = 'Jogo do numero secreto';
 
 let titulo = document.querySelector("p"); 
 
-paragrafo.innerHTML = 'Quero dormir';
+titulo.innerHTML = 'Quero dormir';
